@@ -1,4 +1,4 @@
-### Moov Slack Code of Conduct
+# Moov Slack Code of Conduct
 The code of conduct for participating in the Moov slack community 
 ===========================
 
