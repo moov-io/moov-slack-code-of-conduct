@@ -15,7 +15,8 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 
 Guiding Principal:
 --------------------
-**Give First** Popularized by [Brad Feld](https://twitter.com/bfeld) in his book [Startup communities](https://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1531886035), "Give First" means giving value without the expectation of return. To learn more about the philosiphy listen to [Brad's explanation](https://www.techstars.com/the-line/podcasts/what-is-give-first).
+**Give First** 
+Popularized by [Brad Feld](https://twitter.com/bfeld) in his book [Startup communities](https://www.amazon.com/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1531886035), "Give First" means giving value without the expectation of return. To learn more about the philosiphy listen to [Brad's explanation](https://www.techstars.com/the-line/podcasts/what-is-give-first).
 
 
 Sales and Marketing:
