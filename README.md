@@ -36,6 +36,13 @@ Because this is a free slack account, we have restricted scrollback, but Slack--
 
 Here's a link to [Slacks privacy policy](https://slack.com/trust/privacy/privacy-policy)
 
+
+Off Topic Discussion:
+------------------
+
+The Moov community reserves the right to remove any discussion that does not directly pertain to the financial industry, fintech, or banking more broadly. This is a professional community focused on solving low level financial technical problems. While we do maintian small off topic channels like #food, #healthyliving, and #pets the topics discussed in these channels should remain relevant to their respective topics. If you're found to be consistently starting off topic discussions in the community you will be asked to leave. 
+
+
 Harassment:
 -----------
 
