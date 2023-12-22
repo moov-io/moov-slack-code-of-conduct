@@ -9,7 +9,7 @@ The Moov slack community exists to support the development of open source implem
 
 The current admins are:
 * @WadeArnold
-* @GrahamMcBain
+* @alrightjones
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Participants asked to stop any harassing behavior are expected to comply immediately or risk expulsion from this slack.
 
